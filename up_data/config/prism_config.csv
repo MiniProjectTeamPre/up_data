@@ -1,0 +1,10 @@
+Mode,Operation
+,Debug
+Process Name,FCT1
+Computer Name,SST-PC-FCT1
+Station Name,FCT1_1
+Database Name,TPP_PRISM
+,TPR_PRISM
+Database Server TPP,192.168.11.38
+Database Server TPR,192.168.10.19
+Employee ID,62074

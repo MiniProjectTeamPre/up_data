@@ -1,0 +1,133 @@
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\up_data\up_data\bin\Debug\up_data.exe.config
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\up_data\up_data\bin\Debug\up_data.exe
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\up_data\up_data\bin\Debug\up_data.pdb
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\up_data\up_data\obj\Debug\up_data.Form1.resources
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\up_data\up_data\obj\Debug\up_data.config.resources
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\up_data\up_data\obj\Debug\up_data.Properties.Resources.resources
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\up_data\up_data\obj\Debug\up_data.user_id.resources
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\up_data\up_data\obj\Debug\up_data.csproj.GenerateResource.Cache
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\up_data\up_data\obj\Debug\up_data.exe
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\up_data\up_data\obj\Debug\up_data.pdb
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\up_data\up_data\obj\Debug\up_data.csprojResolveAssemblyReference.cache
+D:\SVN\2021_Sensitech_Denali_FCT1_3\2.Design Documents\7.Test Application\up_data\up_data\bin\Debug\up_data.exe.config
+D:\SVN\2021_Sensitech_Denali_FCT1_3\2.Design Documents\7.Test Application\up_data\up_data\bin\Debug\up_data.exe
+D:\SVN\2021_Sensitech_Denali_FCT1_3\2.Design Documents\7.Test Application\up_data\up_data\bin\Debug\up_data.pdb
+D:\SVN\2021_Sensitech_Denali_FCT1_3\2.Design Documents\7.Test Application\up_data\up_data\obj\Debug\up_data.csprojAssemblyReference.cache
+D:\SVN\2021_Sensitech_Denali_FCT1_3\2.Design Documents\7.Test Application\up_data\up_data\obj\Debug\up_data.Form1.resources
+D:\SVN\2021_Sensitech_Denali_FCT1_3\2.Design Documents\7.Test Application\up_data\up_data\obj\Debug\up_data.config.resources
+D:\SVN\2021_Sensitech_Denali_FCT1_3\2.Design Documents\7.Test Application\up_data\up_data\obj\Debug\up_data.Properties.Resources.resources
+D:\SVN\2021_Sensitech_Denali_FCT1_3\2.Design Documents\7.Test Application\up_data\up_data\obj\Debug\up_data.user_id.resources
+D:\SVN\2021_Sensitech_Denali_FCT1_3\2.Design Documents\7.Test Application\up_data\up_data\obj\Debug\up_data.csproj.GenerateResource.cache
+D:\SVN\2021_Sensitech_Denali_FCT1_3\2.Design Documents\7.Test Application\up_data\up_data\obj\Debug\up_data.csproj.CoreCompileInputs.cache
+D:\SVN\2021_Sensitech_Denali_FCT1_3\2.Design Documents\7.Test Application\up_data\up_data\obj\Debug\up_data.csproj.CopyComplete
+D:\SVN\2021_Sensitech_Denali_FCT1_3\2.Design Documents\7.Test Application\up_data\up_data\obj\Debug\up_data.exe
+D:\SVN\2021_Sensitech_Denali_FCT1_3\2.Design Documents\7.Test Application\up_data\up_data\obj\Debug\up_data.pdb
+D:\SVN\2021_Sensitech_Denali_FCT1_3\2.Design Documents\7.Test Application\Template 20 header3\bin\Debug\up_data.exe.config
+D:\SVN\2021_Sensitech_Denali_FCT1_3\2.Design Documents\7.Test Application\Template 20 header3\bin\Debug\up_data.exe
+D:\SVN\2021_Sensitech_Denali_FCT1_3\2.Design Documents\7.Test Application\Template 20 header3\bin\Debug\up_data.pdb
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\up_data\up_data\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\up_data\up_data\obj\Debug\up_data.csproj.ResolveComReference.cache
+D:\svn\2019_Sensitech_TT_Ultra_Dry_Ice\2.Design Documents\7.Test Application\Test Software\Sensitech_TT_Ultra_Dry_Ice Progeamming fixture\Template 36 header\bin\Debug\up_data.exe.config
+D:\svn\2019_Sensitech_TT_Ultra_Dry_Ice\2.Design Documents\7.Test Application\Test Software\Sensitech_TT_Ultra_Dry_Ice Progeamming fixture\Template 36 header\bin\Debug\up_data.exe
+D:\svn\2019_Sensitech_TT_Ultra_Dry_Ice\2.Design Documents\7.Test Application\Test Software\Sensitech_TT_Ultra_Dry_Ice Progeamming fixture\Template 36 header\bin\Debug\up_data.pdb
+C:\Users\DELL\Desktop\up_data\up_data\obj\Debug\up_data.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\up_data\up_data\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\DELL\Desktop\up_data\up_data\obj\Debug\up_data.csproj.ResolveComReference.cache
+C:\Users\DELL\Desktop\up_data\up_data\obj\Debug\up_data.Form1.resources
+C:\Users\DELL\Desktop\up_data\up_data\obj\Debug\up_data.config.resources
+C:\Users\DELL\Desktop\up_data\up_data\obj\Debug\up_data.Properties.Resources.resources
+C:\Users\DELL\Desktop\up_data\up_data\obj\Debug\up_data.user_id.resources
+C:\Users\DELL\Desktop\up_data\up_data\obj\Debug\up_data.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\up_data\up_data\obj\Debug\up_data.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\up_data\up_data\obj\Debug\up_data.csproj.CopyComplete
+C:\Users\DELL\Desktop\up_data\up_data\obj\Debug\up_data.exe
+C:\Users\DELL\Desktop\up_data\up_data\obj\Debug\up_data.pdb
+C:\Users\DELL\Desktop\up_data\up_data\bin\Debug\up_data.exe.config
+C:\Users\DELL\Desktop\up_data\up_data\bin\Debug\up_data.exe
+C:\Users\DELL\Desktop\up_data\up_data\bin\Debug\up_data.pdb
+D:\svn\2017_Bernard_AI-AO_Board_FG-59T391-LF\Design document\7.Test Application Program\Template 36 header\bin\Debug\up_data.exe.config
+D:\svn\2017_Bernard_AI-AO_Board_FG-59T391-LF\Design document\7.Test Application Program\Template 36 header\bin\Debug\up_data.exe
+D:\svn\2017_Bernard_AI-AO_Board_FG-59T391-LF\Design document\7.Test Application Program\Template 36 header\bin\Debug\up_data.pdb
+D:\Projects C#\mini_projeck_template\up_data\up_data\bin\Debug\up_data.exe.config
+D:\Projects C#\mini_projeck_template\up_data\up_data\obj\Debug\Interop.AutoItX3Lib.dll
+D:\Projects C#\mini_projeck_template\up_data\up_data\obj\Debug\up_data.csproj.ResolveComReference.cache
+D:\Projects C#\mini_projeck_template\up_data\up_data\obj\Debug\up_data.exe
+D:\Projects C#\mini_projeck_template\up_data\up_data\obj\Debug\up_data.pdb
+D:\Projects C#\mini_projeck_template\up_data\up_data\bin\Debug\up_data.exe
+D:\Projects C#\mini_projeck_template\up_data\up_data\bin\Debug\up_data.pdb
+D:\Projects C#\mini_projeck_template\up_data\up_data\obj\Debug\up_data.csprojResolveAssemblyReference.cache
+D:\Projects C#\mini_projeck_template\up_data\up_data\obj\Debug\up_data.Form1.resources
+D:\Projects C#\mini_projeck_template\up_data\up_data\obj\Debug\up_data.Properties.Resources.resources
+D:\Projects C#\mini_projeck_template\up_data\up_data\obj\Debug\up_data.user_id.resources
+D:\Projects C#\mini_projeck_template\up_data\up_data\obj\Debug\up_data.csproj.GenerateResource.Cache
+D:\Projects C#\mini_projeck_template\up_data\up_data\obj\Debug\up_data.WaitChrome.resources
+D:\svn\2020_SENSITECTH_SugarLoaf_Automation\2.Design Documents\7.Test Application Program\Main Test Application\Template 36 header F1 #2\bin\Debug\up_data.exe.config
+D:\svn\2020_SENSITECTH_SugarLoaf_Automation\2.Design Documents\7.Test Application Program\Main Test Application\Template 36 header F1 #2\bin\Debug\up_data.exe
+D:\svn\2020_SENSITECTH_SugarLoaf_Automation\2.Design Documents\7.Test Application Program\Main Test Application\Template 36 header F1 #2\bin\Debug\up_data.pdb
+C:\Users\Admin\Desktop\up_data\up_data\obj\Debug\up_data.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\up_data\up_data\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\Admin\Desktop\up_data\up_data\obj\Debug\up_data.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\up_data\up_data\obj\Debug\up_data.Form1.resources
+C:\Users\Admin\Desktop\up_data\up_data\obj\Debug\up_data.Properties.Resources.resources
+C:\Users\Admin\Desktop\up_data\up_data\obj\Debug\up_data.user_id.resources
+C:\Users\Admin\Desktop\up_data\up_data\obj\Debug\up_data.WaitChrome.resources
+C:\Users\Admin\Desktop\up_data\up_data\obj\Debug\up_data.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\up_data\up_data\obj\Debug\up_data.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\up_data\up_data\obj\Debug\up_data.csproj.CopyComplete
+C:\Users\Admin\Desktop\up_data\up_data\obj\Debug\up_data.exe
+C:\Users\Admin\Desktop\up_data\up_data\obj\Debug\up_data.pdb
+C:\Users\Admin\Desktop\up_data\up_data\bin\Debug\up_data.exe.config
+C:\Users\Admin\Desktop\up_data\up_data\bin\Debug\up_data.exe
+C:\Users\Admin\Desktop\up_data\up_data\bin\Debug\up_data.pdb
+D:\ServerSvn\Projects C#\mini_projeck_template\up_data\up_data\bin\Debug\up_data.exe.config
+D:\ServerSvn\Projects C#\mini_projeck_template\up_data\up_data\obj\Debug\Interop.AutoItX3Lib.dll
+D:\ServerSvn\Projects C#\mini_projeck_template\up_data\up_data\obj\Debug\up_data.csproj.ResolveComReference.cache
+D:\ServerSvn\Projects C#\mini_projeck_template\up_data\up_data\obj\Debug\up_data.exe
+D:\ServerSvn\Projects C#\mini_projeck_template\up_data\up_data\obj\Debug\up_data.pdb
+D:\ServerSvn\Projects C#\mini_projeck_template\up_data\up_data\bin\Debug\up_data.exe
+D:\ServerSvn\Projects C#\mini_projeck_template\up_data\up_data\bin\Debug\up_data.pdb
+D:\ServerSvn\Projects C#\mini_projeck_template\up_data\up_data\obj\Debug\up_data.Form1.resources
+D:\ServerSvn\Projects C#\mini_projeck_template\up_data\up_data\obj\Debug\up_data.Properties.Resources.resources
+D:\ServerSvn\Projects C#\mini_projeck_template\up_data\up_data\obj\Debug\up_data.user_id.resources
+D:\ServerSvn\Projects C#\mini_projeck_template\up_data\up_data\obj\Debug\up_data.WaitChrome.resources
+D:\ServerSvn\Projects C#\mini_projeck_template\up_data\up_data\obj\Debug\up_data.csproj.GenerateResource.Cache
+D:\SvnServer\Projects C#\mini_projeck_template\up_data\up_data\bin\Debug\up_data.exe.config
+D:\SvnServer\Projects C#\mini_projeck_template\up_data\up_data\obj\Debug\Interop.AutoItX3Lib.dll
+D:\SvnServer\Projects C#\mini_projeck_template\up_data\up_data\obj\Debug\up_data.csproj.ResolveComReference.cache
+D:\SvnServer\Projects C#\mini_projeck_template\up_data\up_data\obj\Debug\up_data.exe
+D:\SvnServer\Projects C#\mini_projeck_template\up_data\up_data\obj\Debug\up_data.pdb
+D:\SvnServer\Projects C#\mini_projeck_template\up_data\up_data\bin\Debug\up_data.exe
+D:\SvnServer\Projects C#\mini_projeck_template\up_data\up_data\bin\Debug\up_data.pdb
+D:\SvnServer\Projects C#\mini_projeck_template\up_data\up_data\obj\Debug\up_data.csprojResolveAssemblyReference.cache
+D:\SvnServer\Projects C#\mini_projeck_template\up_data\up_data\obj\Debug\up_data.Form1.resources
+D:\SvnServer\Projects C#\mini_projeck_template\up_data\up_data\obj\Debug\up_data.Properties.Resources.resources
+D:\SvnServer\Projects C#\mini_projeck_template\up_data\up_data\obj\Debug\up_data.user_id.resources
+D:\SvnServer\Projects C#\mini_projeck_template\up_data\up_data\obj\Debug\up_data.WaitChrome.resources
+D:\SvnServer\Projects C#\mini_projeck_template\up_data\up_data\obj\Debug\up_data.csproj.GenerateResource.Cache
+C:\Users\anocha\Desktop\up_data\up_data\bin\Debug\up_data.exe.config
+C:\Users\anocha\Desktop\up_data\up_data\bin\Debug\up_data.exe
+C:\Users\anocha\Desktop\up_data\up_data\bin\Debug\up_data.pdb
+C:\Users\anocha\Desktop\up_data\up_data\bin\Debug\TeamPrecision.PRISM.pdb
+C:\Users\anocha\Desktop\up_data\up_data\bin\Debug\TeamPrecision.PRISM.dll.config
+C:\Users\anocha\Desktop\up_data\up_data\obj\Debug\up_data.csproj.AssemblyReference.cache
+C:\Users\anocha\Desktop\up_data\up_data\obj\Debug\up_data.csproj.SuggestedBindingRedirects.cache
+C:\Users\anocha\Desktop\up_data\up_data\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\anocha\Desktop\up_data\up_data\obj\Debug\up_data.csproj.ResolveComReference.cache
+C:\Users\anocha\Desktop\up_data\up_data\obj\Debug\up_data.Form1.resources
+C:\Users\anocha\Desktop\up_data\up_data\obj\Debug\up_data.Properties.Resources.resources
+C:\Users\anocha\Desktop\up_data\up_data\obj\Debug\up_data.user_id.resources
+C:\Users\anocha\Desktop\up_data\up_data\obj\Debug\up_data.WaitChrome.resources
+C:\Users\anocha\Desktop\up_data\up_data\obj\Debug\up_data.csproj.GenerateResource.cache
+C:\Users\anocha\Desktop\up_data\up_data\obj\Debug\up_data.csproj.CoreCompileInputs.cache
+C:\Users\anocha\Desktop\up_data\up_data\obj\Debug\up_data.csproj.CopyComplete
+C:\Users\anocha\Desktop\up_data\up_data\obj\Debug\up_data.exe
+C:\Users\anocha\Desktop\up_data\up_data\obj\Debug\up_data.pdb
+D:\ServerSvn\Projects C#\mini_projeck_template\up_data\up_data\bin\Debug\TeamPrecision.PRISM.pdb
+D:\ServerSvn\Projects C#\mini_projeck_template\up_data\up_data\bin\Debug\TeamPrecision.PRISM.dll.config
+D:\ServerSvn\Projects C#\mini_projeck_template\up_data\up_data\obj\Debug\up_data.csproj.AssemblyReference.cache
+D:\ServerSvn\Projects C#\mini_projeck_template\up_data\up_data\obj\Debug\up_data.csproj.SuggestedBindingRedirects.cache
+D:\ServerSvn\Projects C#\mini_projeck_template\up_data\up_data\obj\Debug\up_data.csproj.CoreCompileInputs.cache
+D:\ServerSvn\Projects C#\mini_projeck_template\up_data\up_data\obj\Debug\up_data.csproj.CopyComplete
+D:\ServerSvn\TemplateTeam\Template 36 header F1 #1\bin\Debug\up_data.exe.config
+D:\ServerSvn\TemplateTeam\Template 36 header F1 #1\bin\Debug\up_data.exe
+D:\ServerSvn\TemplateTeam\Template 36 header F1 #1\bin\Debug\up_data.pdb

@@ -1,0 +1,19 @@
+Kill Chrome,TRUE
+,FALSE
+Kill Chrome Delay [ms],5000
+Select URL,Iot
+,IP
+URL of Iot,http://iot.teampcba.com:1880/PRISM/
+URL of IP,http://192.168.11.15:1880/PRISM/
+Skip Login via REST,TRUE
+,FALSE
+Project,Denali [FCT1]
+,Dry-ice [FCT1]
+,Sugarloaf [FCT1]
+,Denali Nextgen [FCT1]
+,Denali Nextgen [FCT2]
+,SMR [FCT1]
+,LPP [FCT1]
+,Valencell [FCT1]
+E-mail,Anocha@teampcba.com
+Password,1
