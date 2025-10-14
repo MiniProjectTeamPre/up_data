@@ -131,3 +131,20 @@ D:\ServerSvn\Projects C#\mini_projeck_template\up_data\up_data\obj\Debug\up_data
 D:\ServerSvn\TemplateTeam\Template 36 header F1 #1\bin\Debug\up_data.exe.config
 D:\ServerSvn\TemplateTeam\Template 36 header F1 #1\bin\Debug\up_data.exe
 D:\ServerSvn\TemplateTeam\Template 36 header F1 #1\bin\Debug\up_data.pdb
+C:\Users\anocha\Downloads\up_data-main\up_data-main\up_data\bin\Debug\up_data.exe.config
+C:\Users\anocha\Downloads\up_data-main\up_data-main\up_data\bin\Debug\up_data.exe
+C:\Users\anocha\Downloads\up_data-main\up_data-main\up_data\bin\Debug\up_data.pdb
+C:\Users\anocha\Downloads\up_data-main\up_data-main\up_data\bin\Debug\TeamPrecision.PRISM.pdb
+C:\Users\anocha\Downloads\up_data-main\up_data-main\up_data\bin\Debug\TeamPrecision.PRISM.dll.config
+C:\Users\anocha\Downloads\up_data-main\up_data-main\up_data\obj\Debug\up_data.csproj.AssemblyReference.cache
+C:\Users\anocha\Downloads\up_data-main\up_data-main\up_data\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\anocha\Downloads\up_data-main\up_data-main\up_data\obj\Debug\up_data.csproj.ResolveComReference.cache
+C:\Users\anocha\Downloads\up_data-main\up_data-main\up_data\obj\Debug\up_data.Form1.resources
+C:\Users\anocha\Downloads\up_data-main\up_data-main\up_data\obj\Debug\up_data.Properties.Resources.resources
+C:\Users\anocha\Downloads\up_data-main\up_data-main\up_data\obj\Debug\up_data.user_id.resources
+C:\Users\anocha\Downloads\up_data-main\up_data-main\up_data\obj\Debug\up_data.WaitChrome.resources
+C:\Users\anocha\Downloads\up_data-main\up_data-main\up_data\obj\Debug\up_data.csproj.GenerateResource.cache
+C:\Users\anocha\Downloads\up_data-main\up_data-main\up_data\obj\Debug\up_data.csproj.CoreCompileInputs.cache
+C:\Users\anocha\Downloads\up_data-main\up_data-main\up_data\obj\Debug\up_data.csproj.Up2Date
+C:\Users\anocha\Downloads\up_data-main\up_data-main\up_data\obj\Debug\up_data.exe
+C:\Users\anocha\Downloads\up_data-main\up_data-main\up_data\obj\Debug\up_data.pdb

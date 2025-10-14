@@ -89,6 +89,7 @@ namespace up_data {
             upPrism.stationName = setupPay.read_text(upPrism.headConfig.stationName);
             upPrism.computerName = setupPay.read_text(upPrism.headConfig.computerName);
             upPrism.databaseName = setupPay.read_text(upPrism.headConfig.databaseName);
+            upPrism.databaseServerTPP = setupPay.read_text(upPrism.headConfig.databaseServerTPP);
             upPrism.mode = setupPay.read_text(upPrism.headConfig.mode);
         }
         private bool check_open_progarm_redundant() {
@@ -664,6 +665,7 @@ namespace up_data {
         public string employeeID { get; set; }
         public string computerName { get; set; }
         public string databaseName { get; set; }
+        public string databaseServerTPP { get; set; }
         public string mode { get; set; }
 
 
@@ -750,7 +752,15 @@ namespace up_data {
             }
             else
             {
-                databaseServer = "Vd147+pBWCihy3FzdahxTg==";
+                if (upPrism.databaseServerTPP == "192.168.11.39")
+                {
+                    databaseServer = "Vd147+pBWCi1gxayZS2ipw==";
+                }
+                else
+                {
+                    databaseServer = "Vd147+pBWCihy3FzdahxTg==";
+                }
+
                 databaseName = "U/AFYtHi4S8yjwyD3O/AmA==";
             }
 

@@ -52,12 +52,15 @@ namespace up_data {
             //    MessageBox.Show("_wม่พบข้อมูลในระบบ");
             //}
 
-            if (TeamPrecision.PRISM.cUsers.UserLogin(textBox1.Text)) {
+            if (TeamPrecision.PRISM.cUsers.UserLogin(textBox1.Text))
+            {
                 goto idComplete;
-            } else {
+            }
+            else
+            {
                 MessageBox.Show("_ไม่พบข้อมูลในระบบ");
             }
-                
+
 
             //ถ้า id ไม่มีอยู่ในระบบ จะ return ออกไป ให้ใส่ id ใหม่
             return;
