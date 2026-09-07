@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\up_data\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{324ABD93-3B7F-414C-84F8-15A14B71AE85}|up_data\\up_data.csproj|d:\\github\\up_data\\up_data\\user_id.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{324ABD93-3B7F-414C-84F8-15A14B71AE85}|up_data\\up_data.csproj|solutionrelative:up_data\\user_id.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324ABD93-3B7F-414C-84F8-15A14B71AE85}|up_data\\up_data.csproj|D:\\Github\\up_data\\up_data\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324ABD93-3B7F-414C-84F8-15A14B71AE85}|up_data\\up_data.csproj|solutionrelative:up_data\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324ABD93-3B7F-414C-84F8-15A14B71AE85}|up_data\\up_data.csproj|D:\\Github\\up_data\\up_data\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{324ABD93-3B7F-414C-84F8-15A14B71AE85}|up_data\\up_data.csproj|solutionrelative:up_data\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324ABD93-3B7F-414C-84F8-15A14B71AE85}|up_data\\up_data.csproj|D:\\Github\\up_data\\up_data\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{324ABD93-3B7F-414C-84F8-15A14B71AE85}|up_data\\up_data.csproj|solutionrelative:up_data\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "D:\\Github\\up_data\\up_data\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "up_data\\Form2.Designer.cs",
+              "ToolTip": "D:\\Github\\up_data\\up_data\\Form2.Designer.cs",
+              "RelativeToolTip": "up_data\\Form2.Designer.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAMwEIAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T03:08:40.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "user_id.cs [Design]",
+              "DocumentMoniker": "D:\\Github\\up_data\\up_data\\user_id.cs",
+              "RelativeDocumentMoniker": "up_data\\user_id.cs",
+              "ToolTip": "D:\\Github\\up_data\\up_data\\user_id.cs [Design]",
+              "RelativeToolTip": "up_data\\user_id.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T03:08:38.14Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Github\\up_data\\up_data\\Form1.cs",
+              "RelativeDocumentMoniker": "up_data\\Form1.cs",
+              "ToolTip": "D:\\Github\\up_data\\up_data\\Form1.cs [Design]",
+              "RelativeToolTip": "up_data\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T03:08:14.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "D:\\Github\\up_data\\up_data\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "up_data\\Properties\\Resources.resx",
+              "ToolTip": "D:\\Github\\up_data\\up_data\\Properties\\Resources.resx",
+              "RelativeToolTip": "up_data\\Properties\\Resources.resx",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAjwHoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-09-07T03:07:43.044Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

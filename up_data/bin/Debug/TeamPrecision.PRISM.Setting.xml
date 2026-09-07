@@ -6,7 +6,7 @@
   <DatabaseUser>qNMPB0293rI=</DatabaseUser>
   <DatabasePassword>m/2+3pRMmYg=</DatabasePassword>
   <ComputerName>SST-PC-FCT1</ComputerName>
-  <StationName>SST-FCT3-2</StationName>
-  <ProcessName>FCT3</ProcessName>
+  <StationName>FCT1_1</StationName>
+  <ProcessName>FCT1</ProcessName>
   <UsePasswordWhenLogin>false</UsePasswordWhenLogin>
 </cSettingSerial>

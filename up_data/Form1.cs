@@ -35,6 +35,7 @@ namespace up_data {
 
         #region ===================================== Form Load ==========================================
         private void Form1_Load(object sender, EventArgs e) {
+            Define2.InitConfigPath();
             setup_setupPay();
             setup_RestAPI();
             setup_prism();
@@ -45,7 +46,7 @@ namespace up_data {
             check_folder_exis();
         }
         private void setup_setupPay() {
-            //setupPay.form1.csv.path = "../../../Config/";
+            setupPay.form1.csv.path = Define2.configPath;
             setupPay.SelectTab = SetupPay.tabPage.TAB1;
             setupPay.set_nameTab(define.nameFileConfig);
             setupPay.SelectTab = SetupPay.tabPage.TAB2;
@@ -936,6 +937,16 @@ namespace up_data {
         public static readonly string getOutPut_ok = "up_data_getOutPut_ok.txt";
     }
     public static class Define2 {
+        public static string configPath { get; private set; }
+
+        public static void InitConfigPath() {
+            string exeDir = AppDomain.CurrentDomain.BaseDirectory;
+            string testerNo = "1";
+            try { testerNo = File.ReadAllText(Path.Combine(exeDir, "tester_no.txt")).Trim(); } catch { }
+            string threeLevelsUp = Path.GetFullPath(Path.Combine(exeDir, "..\\..\\.."));
+            configPath = Path.Combine(threeLevelsUp, "config_" + testerNo) + "\\";
+        }
+
         /// <summary>Value = "IP"</summary>
         public static readonly string ip = "IP";
         /// <summary>Value = "up_data"</summary>

@@ -24,7 +24,7 @@ namespace up_data {
         private void timer1_Tick(object sender, EventArgs e) {
             timer1.Enabled = false;
             string s = mode_debug;
-            try { s = File.ReadAllText("../../config/up_data_config_mode.txt"); } catch { }
+            try { s = File.ReadAllText(Define2.configPath + "up_data_config_mode.txt"); } catch { }
             if (s == mode_debug) {
                 pgb_debug.Image = Properties.Resources.debug;
                 pgb_operation.Image = Properties.Resources.operation_null2;
@@ -34,11 +34,11 @@ namespace up_data {
                 pgb_debug.Image = Properties.Resources.debug_null2;
                 flag_string_debug = false;
             }
-            try { textBox1.Text = File.ReadAllText("../../config/up_data_config_database_server.txt"); } catch { }
-            try { textBox2.Text = File.ReadAllText("../../config/up_data_config_database_name.txt"); } catch { }
-            try { textBox3.Text = File.ReadAllText("../../config/up_data_config_computer_name.txt"); } catch { }
-            try { textBox4.Text = File.ReadAllText("../../config/up_data_config_station_name.txt"); } catch { }
-            try { textBox5.Text = File.ReadAllText("../../config/up_data_config_process_name.txt"); } catch { }
+            try { textBox1.Text = File.ReadAllText(Define2.configPath + "up_data_config_database_server.txt"); } catch { }
+            try { textBox2.Text = File.ReadAllText(Define2.configPath + "up_data_config_database_name.txt"); } catch { }
+            try { textBox3.Text = File.ReadAllText(Define2.configPath + "up_data_config_computer_name.txt"); } catch { }
+            try { textBox4.Text = File.ReadAllText(Define2.configPath + "up_data_config_station_name.txt"); } catch { }
+            try { textBox5.Text = File.ReadAllText(Define2.configPath + "up_data_config_process_name.txt"); } catch { }
 
             this.Activate();
             if (Form.ActiveForm != this) {
@@ -68,13 +68,13 @@ namespace up_data {
         private void button1_Click(object sender, EventArgs e) {
             DialogResult dialogResult = MessageBox.Show("_กรุณายืนยันการตั้งค่า", "config", MessageBoxButtons.YesNo);
             if (dialogResult != DialogResult.Yes) return;
-            if(flag_string_debug) File.WriteAllText("../../config/up_data_config_mode.txt", mode_debug);
-            else File.WriteAllText("../../config/up_data_config_mode.txt", mode_operation);
-            File.WriteAllText("../../config/up_data_config_database_server.txt", textBox1.Text);
-            File.WriteAllText("../../config/up_data_config_database_name.txt", textBox2.Text);
-            File.WriteAllText("../../config/up_data_config_computer_name.txt", textBox3.Text);
-            File.WriteAllText("../../config/up_data_config_station_name.txt", textBox4.Text);
-            File.WriteAllText("../../config/up_data_config_process_name.txt", textBox5.Text);
+            if(flag_string_debug) File.WriteAllText(Define2.configPath + "up_data_config_mode.txt", mode_debug);
+            else File.WriteAllText(Define2.configPath + "up_data_config_mode.txt", mode_operation);
+            File.WriteAllText(Define2.configPath + "up_data_config_database_server.txt", textBox1.Text);
+            File.WriteAllText(Define2.configPath + "up_data_config_database_name.txt", textBox2.Text);
+            File.WriteAllText(Define2.configPath + "up_data_config_computer_name.txt", textBox3.Text);
+            File.WriteAllText(Define2.configPath + "up_data_config_station_name.txt", textBox4.Text);
+            File.WriteAllText(Define2.configPath + "up_data_config_process_name.txt", textBox5.Text);
 
             write_xml();
         }
@@ -83,7 +83,7 @@ namespace up_data {
         private string xml_DatabaseName = "U/AFYtHi4S8yjwyD3O/AmA==";//tpp
         public void write_xml() {
             string dfdf = "";
-            try { dfdf = File.ReadAllText("../../config/up_data_config_database_name.txt"); } catch { }
+            try { dfdf = File.ReadAllText(Define2.configPath + "up_data_config_database_name.txt"); } catch { }
             if (dfdf == "TPR_PRISM") {
                 xml_DatabaseServer = "Vd147+pBWChvWVcRsdZvHQ==";
                 xml_DatabaseName = "awiuCMQfI7kyjwyD3O/AmA==";
@@ -99,7 +99,7 @@ namespace up_data {
             writer.WriteAttributeString("xmlns:xsi", "http://www.w3.org/2001/XMLSchema-instance");
             writer.WriteAttributeString("xmlns:xsd", "http://www.w3.org/2001/XMLSchema");
             writer.WriteStartElement("TestingMode");
-            try { writer.WriteString(File.ReadAllText("../../config/up_data_config_mode.txt")); } catch { writer.WriteString("Operation"); }
+            try { writer.WriteString(File.ReadAllText(Define2.configPath + "up_data_config_mode.txt")); } catch { writer.WriteString("Operation"); }
             writer.WriteEndElement();
             writer.WriteStartElement("DatabaseServer");
             writer.WriteString(xml_DatabaseServer);
@@ -114,13 +114,13 @@ namespace up_data {
             writer.WriteString("m/2+3pRMmYg=");
             writer.WriteEndElement();
             writer.WriteStartElement("ComputerName");
-            try { writer.WriteString(File.ReadAllText("../../config/up_data_config_computer_name.txt")); } catch { writer.WriteString("SST-PC-FCT1"); }
+            try { writer.WriteString(File.ReadAllText(Define2.configPath + "up_data_config_computer_name.txt")); } catch { writer.WriteString("SST-PC-FCT1"); }
             writer.WriteEndElement();
             writer.WriteStartElement("StationName");
-            try { writer.WriteString(File.ReadAllText("../../config/up_data_config_station_name.txt")); } catch { writer.WriteString("Operation"); }
+            try { writer.WriteString(File.ReadAllText(Define2.configPath + "up_data_config_station_name.txt")); } catch { writer.WriteString("Operation"); }
             writer.WriteEndElement();
             writer.WriteStartElement("ProcessName");
-            try { writer.WriteString(File.ReadAllText("../../config/up_data_config_process_name.txt")); } catch { writer.WriteString("Operation"); }
+            try { writer.WriteString(File.ReadAllText(Define2.configPath + "up_data_config_process_name.txt")); } catch { writer.WriteString("Operation"); }
             writer.WriteEndElement();
             writer.WriteStartElement("UsePasswordWhenLogin");
             writer.WriteString("false");
@@ -132,16 +132,16 @@ namespace up_data {
         private void tPRToolStripMenuItem_Click(object sender, EventArgs e) {
             textBox1.Text = "192.168.10.19";
             textBox2.Text = "TPR_PRISM";
-            File.WriteAllText("../../config/up_data_config_database_server.txt", textBox1.Text);
-            File.WriteAllText("../../config/up_data_config_database_name.txt", textBox2.Text);
+            File.WriteAllText(Define2.configPath + "up_data_config_database_server.txt", textBox1.Text);
+            File.WriteAllText(Define2.configPath + "up_data_config_database_name.txt", textBox2.Text);
             tPRToolStripMenuItem.Checked = true;
             tPPToolStripMenuItem.Checked = false;
         }
         private void tPPToolStripMenuItem_Click(object sender, EventArgs e) {
             textBox1.Text = "192.168.11.38";
             textBox2.Text = "TPP_PRISM";
-            File.WriteAllText("../../config/up_data_config_database_server.txt", textBox1.Text);
-            File.WriteAllText("../../config/up_data_config_database_name.txt", textBox2.Text);
+            File.WriteAllText(Define2.configPath + "up_data_config_database_server.txt", textBox1.Text);
+            File.WriteAllText(Define2.configPath + "up_data_config_database_name.txt", textBox2.Text);
             tPPToolStripMenuItem.Checked = true;
             tPRToolStripMenuItem.Checked = false;
         }
